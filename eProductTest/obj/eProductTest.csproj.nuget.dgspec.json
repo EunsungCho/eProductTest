@@ -28,7 +28,8 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://tfs.bcs.local/tfs/bcs/_packaging/SBD_NugetPackages/nuget/v3/index.json": {}
         },
         "frameworks": {
           "net10.0": {

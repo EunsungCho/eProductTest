@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\MyFolder\\StudyProjects\\TestDotNet\\Aspnet\\eProductTest\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D34613E0-159F-E38C-C102-057F897A7D00}|eProductTest\\eProductTest.csproj|c:\\myfolder\\studyprojects\\testdotnet\\aspnet\\eproducttest\\eproducttest\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D34613E0-159F-E38C-C102-057F897A7D00}|eProductTest\\eProductTest.csproj|solutionrelative:eproducttest\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D34613E0-159F-E38C-C102-057F897A7D00}|eProductTest\\eProductTest.csproj|c:\\myfolder\\studyprojects\\testdotnet\\aspnet\\eproducttest\\eproducttest\\infrastructure\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D34613E0-159F-E38C-C102-057F897A7D00}|eProductTest\\eProductTest.csproj|solutionrelative:eproducttest\\infrastructure\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D34613E0-159F-E38C-C102-057F897A7D00}|eProductTest\\eProductTest.csproj|c:\\myfolder\\studyprojects\\testdotnet\\aspnet\\eproducttest\\eproducttest\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D34613E0-159F-E38C-C102-057F897A7D00}|eProductTest\\eProductTest.csproj|solutionrelative:eproducttest\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D34613E0-159F-E38C-C102-057F897A7D00}|eProductTest\\eProductTest.csproj|c:\\myfolder\\studyprojects\\testdotnet\\aspnet\\eproducttest\\eproducttest\\pages\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D34613E0-159F-E38C-C102-057F897A7D00}|eProductTest\\eProductTest.csproj|solutionrelative:eproducttest\\pages\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D34613E0-159F-E38C-C102-057F897A7D00}|eProductTest\\eProductTest.csproj|c:\\myfolder\\studyprojects\\testdotnet\\aspnet\\eproducttest\\eproducttest\\pages\\cart.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D34613E0-159F-E38C-C102-057F897A7D00}|eProductTest\\eProductTest.csproj|solutionrelative:eproducttest\\pages\\cart.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D34613E0-159F-E38C-C102-057F897A7D00}|eProductTest\\eProductTest.csproj|c:\\myfolder\\studyprojects\\testdotnet\\aspnet\\eproducttest\\eproducttest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D34613E0-159F-E38C-C102-057F897A7D00}|eProductTest\\eProductTest.csproj|c:\\myfolder\\studyprojects\\testdotnet\\aspnet\\eproducttest\\eproducttest\\infrastructure\\urlextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D34613E0-159F-E38C-C102-057F897A7D00}|eProductTest\\eProductTest.csproj|solutionrelative:eproducttest\\infrastructure\\urlextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D34613E0-159F-E38C-C102-057F897A7D00}|eProductTest\\eProductTest.csproj|c:\\myfolder\\studyprojects\\testdotnet\\aspnet\\eproducttest\\eproducttest\\pages\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D34613E0-159F-E38C-C102-057F897A7D00}|eProductTest\\eProductTest.csproj|solutionrelative:eproducttest\\pages\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D34613E0-159F-E38C-C102-057F897A7D00}|eProductTest\\eProductTest.csproj|c:\\myfolder\\studyprojects\\testdotnet\\aspnet\\eproducttest\\eproducttest\\pages\\_cartlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -90,50 +94,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 46,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{99b8fa2f-ab90-4f57-9c32-949f146f1914}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SessionExtensions.cs",
-              "DocumentMoniker": "C:\\MyFolder\\StudyProjects\\TestDotNet\\Aspnet\\eProductTest\\eProductTest\\Infrastructure\\SessionExtensions.cs",
-              "RelativeDocumentMoniker": "eProductTest\\Infrastructure\\SessionExtensions.cs",
-              "ToolTip": "C:\\MyFolder\\StudyProjects\\TestDotNet\\Aspnet\\eProductTest\\eProductTest\\Infrastructure\\SessionExtensions.cs",
-              "RelativeToolTip": "eProductTest\\Infrastructure\\SessionExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-21T09:23:08.495Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Cart.cs",
-              "DocumentMoniker": "C:\\MyFolder\\StudyProjects\\TestDotNet\\Aspnet\\eProductTest\\eProductTest\\Models\\Cart.cs",
-              "RelativeDocumentMoniker": "eProductTest\\Models\\Cart.cs",
-              "ToolTip": "C:\\MyFolder\\StudyProjects\\TestDotNet\\Aspnet\\eProductTest\\eProductTest\\Models\\Cart.cs",
-              "RelativeToolTip": "eProductTest\\Models\\Cart.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAzwCEAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-21T09:14:56.123Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UrlExtensions.cs",
-              "DocumentMoniker": "C:\\MyFolder\\StudyProjects\\TestDotNet\\Aspnet\\eProductTest\\eProductTest\\Infrastructure\\UrlExtensions.cs",
-              "RelativeDocumentMoniker": "eProductTest\\Infrastructure\\UrlExtensions.cs",
-              "ToolTip": "C:\\MyFolder\\StudyProjects\\TestDotNet\\Aspnet\\eProductTest\\eProductTest\\Infrastructure\\UrlExtensions.cs",
-              "RelativeToolTip": "eProductTest\\Infrastructure\\UrlExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-21T06:53:06.095Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -281,10 +246,6 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
@@ -308,21 +269,76 @@
               "Name": "ST:20:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
+              "Title": "Cart.cshtml.cs",
+              "DocumentMoniker": "C:\\MyFolder\\StudyProjects\\TestDotNet\\Aspnet\\eProductTest\\eProductTest\\Pages\\Cart.cshtml.cs",
+              "RelativeDocumentMoniker": "eProductTest\\Pages\\Cart.cshtml.cs",
+              "ToolTip": "C:\\MyFolder\\StudyProjects\\TestDotNet\\Aspnet\\eProductTest\\eProductTest\\Pages\\Cart.cshtml.cs",
+              "RelativeToolTip": "eProductTest\\Pages\\Cart.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T01:51:58.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SessionExtensions.cs",
+              "DocumentMoniker": "C:\\MyFolder\\StudyProjects\\TestDotNet\\Aspnet\\eProductTest\\eProductTest\\Infrastructure\\SessionExtensions.cs",
+              "RelativeDocumentMoniker": "eProductTest\\Infrastructure\\SessionExtensions.cs",
+              "ToolTip": "C:\\MyFolder\\StudyProjects\\TestDotNet\\Aspnet\\eProductTest\\eProductTest\\Infrastructure\\SessionExtensions.cs",
+              "RelativeToolTip": "eProductTest\\Infrastructure\\SessionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T09:23:08.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\MyFolder\\StudyProjects\\TestDotNet\\Aspnet\\eProductTest\\eProductTest\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "eProductTest\\Models\\Cart.cs",
+              "ToolTip": "C:\\MyFolder\\StudyProjects\\TestDotNet\\Aspnet\\eProductTest\\eProductTest\\Models\\Cart.cs",
+              "RelativeToolTip": "eProductTest\\Models\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T09:14:56.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UrlExtensions.cs",
+              "DocumentMoniker": "C:\\MyFolder\\StudyProjects\\TestDotNet\\Aspnet\\eProductTest\\eProductTest\\Infrastructure\\UrlExtensions.cs",
+              "RelativeDocumentMoniker": "eProductTest\\Infrastructure\\UrlExtensions.cs",
+              "ToolTip": "C:\\MyFolder\\StudyProjects\\TestDotNet\\Aspnet\\eProductTest\\eProductTest\\Infrastructure\\UrlExtensions.cs",
+              "RelativeToolTip": "eProductTest\\Infrastructure\\UrlExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T06:53:06.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Cart.cshtml",
               "DocumentMoniker": "C:\\MyFolder\\StudyProjects\\TestDotNet\\Aspnet\\eProductTest\\eProductTest\\Pages\\Cart.cshtml",
               "RelativeDocumentMoniker": "eProductTest\\Pages\\Cart.cshtml",
               "ToolTip": "C:\\MyFolder\\StudyProjects\\TestDotNet\\Aspnet\\eProductTest\\eProductTest\\Pages\\Cart.cshtml",
               "RelativeToolTip": "eProductTest\\Pages\\Cart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwCUAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-03-21T06:51:31.55Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "_CartLayout.cshtml",
               "DocumentMoniker": "C:\\MyFolder\\StudyProjects\\TestDotNet\\Aspnet\\eProductTest\\eProductTest\\Pages\\_CartLayout.cshtml",
               "RelativeDocumentMoniker": "eProductTest\\Pages\\_CartLayout.cshtml",
@@ -330,12 +346,11 @@
               "RelativeToolTip": "eProductTest\\Pages\\_CartLayout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-20T23:23:45.596Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-20T23:23:45.596Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\MyFolder\\StudyProjects\\TestDotNet\\Aspnet\\eProductTest\\eProductTest\\Pages\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "eProductTest\\Pages\\_ViewStart.cshtml",
@@ -347,7 +362,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\MyFolder\\StudyProjects\\TestDotNet\\Aspnet\\eProductTest\\eProductTest\\Pages\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "eProductTest\\Pages\\_ViewImports.cshtml",
@@ -359,7 +374,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Default.cshtml",
               "DocumentMoniker": "C:\\MyFolder\\StudyProjects\\TestDotNet\\Aspnet\\eProductTest\\eProductTest\\Views\\Shared\\Components\\NavigationMenu\\Default.cshtml",
               "RelativeDocumentMoniker": "eProductTest\\Views\\Shared\\Components\\NavigationMenu\\Default.cshtml",
@@ -371,7 +386,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\MyFolder\\StudyProjects\\TestDotNet\\Aspnet\\eProductTest\\eProductTest\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "eProductTest\\Views\\Shared\\_Layout.cshtml",
@@ -383,7 +398,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "NavigationMenuViewComponent.cs",
               "DocumentMoniker": "C:\\MyFolder\\StudyProjects\\TestDotNet\\Aspnet\\eProductTest\\eProductTest\\Components\\NavigationMenuViewComponent.cs",
               "RelativeDocumentMoniker": "eProductTest\\Components\\NavigationMenuViewComponent.cs",
@@ -395,7 +410,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\MyFolder\\StudyProjects\\TestDotNet\\Aspnet\\eProductTest\\eProductTest\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "eProductTest\\Views\\_ViewImports.cshtml",
@@ -403,12 +418,11 @@
               "RelativeToolTip": "eProductTest\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-16T10:36:48.713Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-16T10:36:48.713Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "ProductSummary.cshtml",
               "DocumentMoniker": "C:\\MyFolder\\StudyProjects\\TestDotNet\\Aspnet\\eProductTest\\eProductTest\\Views\\Shared\\ProductSummary.cshtml",
               "RelativeDocumentMoniker": "eProductTest\\Views\\Shared\\ProductSummary.cshtml",
@@ -416,12 +430,11 @@
               "RelativeToolTip": "eProductTest\\Views\\Shared\\ProductSummary.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-16T10:32:29.037Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-16T10:32:29.037Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "eStoreProductListViewModel.cs",
               "DocumentMoniker": "C:\\MyFolder\\StudyProjects\\TestDotNet\\Aspnet\\eProductTest\\eProductTest\\Models\\ViewModels\\eStoreProductListViewModel.cs",
               "RelativeDocumentMoniker": "eProductTest\\Models\\ViewModels\\eStoreProductListViewModel.cs",
@@ -433,7 +446,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "PageLinkTagHelper.cs",
               "DocumentMoniker": "C:\\MyFolder\\StudyProjects\\TestDotNet\\Aspnet\\eProductTest\\eProductTest\\Infrastructure\\PageLinkTagHelper.cs",
               "RelativeDocumentMoniker": "eProductTest\\Infrastructure\\PageLinkTagHelper.cs",
@@ -445,7 +458,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "PagingInfo.cs",
               "DocumentMoniker": "C:\\MyFolder\\StudyProjects\\TestDotNet\\Aspnet\\eProductTest\\eProductTest\\Models\\ViewModels\\PagingInfo.cs",
               "RelativeDocumentMoniker": "eProductTest\\Models\\ViewModels\\PagingInfo.cs",
@@ -457,7 +470,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\MyFolder\\StudyProjects\\TestDotNet\\Aspnet\\eProductTest\\eProductTest\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "eProductTest\\Views\\Home\\Index.cshtml",
@@ -469,7 +482,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\MyFolder\\StudyProjects\\TestDotNet\\Aspnet\\eProductTest\\eProductTest\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "eProductTest\\Controllers\\HomeController.cs",
@@ -481,7 +494,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "StoreDataRepository.cs",
               "DocumentMoniker": "C:\\MyFolder\\StudyProjects\\TestDotNet\\Aspnet\\eProductTest\\eProductTest\\Models\\StoreDataRepository.cs",
               "RelativeDocumentMoniker": "eProductTest\\Models\\StoreDataRepository.cs",
@@ -493,7 +506,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\MyFolder\\StudyProjects\\TestDotNet\\Aspnet\\eProductTest\\eProductTest\\Models\\Product.cs",
               "RelativeDocumentMoniker": "eProductTest\\Models\\Product.cs",
@@ -505,7 +518,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\MyFolder\\StudyProjects\\TestDotNet\\Aspnet\\eProductTest\\eProductTest\\Program.cs",
               "RelativeDocumentMoniker": "eProductTest\\Program.cs",
@@ -513,8 +526,7 @@
               "RelativeToolTip": "eProductTest\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T04:09:30.74Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-16T04:09:30.74Z"
             }
           ]
         }

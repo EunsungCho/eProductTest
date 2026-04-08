@@ -202,3 +202,4 @@ C:\MyFolder\StudyProjects\TestDotNet\Aspnet\eProductTest\eProductTest\obj\Debug\
 C:\MyFolder\StudyProjects\TestDotNet\Aspnet\eProductTest\eProductTest\obj\Debug\net10.0\ref\eProductTest.dll
 C:\MyFolder\StudyProjects\TestDotNet\Aspnet\eProductTest\eProductTest\obj\Debug\net10.0\eProductTest.RazorAssemblyInfo.cache
 C:\MyFolder\StudyProjects\TestDotNet\Aspnet\eProductTest\eProductTest\obj\Debug\net10.0\eProductTest.RazorAssemblyInfo.cs
+C:\MyFolder\StudyProjects\TestDotNet\Aspnet\eProductTest\eProductTest\obj\Debug\net10.0\eProductTest.sourcelink.json
