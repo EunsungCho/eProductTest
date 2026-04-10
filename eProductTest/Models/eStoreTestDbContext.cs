@@ -10,5 +10,6 @@ namespace eProductTest.Models
         }
 
         public DbSet<Product> Products => Set<Product>();
+        public DbSet<Order> Orders => Set<Order>();
     }
 }
