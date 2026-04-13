@@ -8,6 +8,7 @@ builder.Services.AddDbContext<eStoreTestDbContext>(option =>
     option.UseSqlServer(builder.Configuration.GetConnectionString("appDbConnection"));
 });
 builder.Services.AddScoped<IDataRepository, StoreDataRepository>();
+builder.Services.AddScoped<IOrderRepository, StoreOrderRepository>();
 builder.Services.AddRazorPages();
 builder.Services.AddDistributedMemoryCache();
 builder.Services.AddSession();

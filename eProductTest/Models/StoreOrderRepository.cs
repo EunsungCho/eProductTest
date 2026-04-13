@@ -16,7 +16,12 @@ namespace eProductTest.Models
 
         public void SaveOrder(Order order)
         {
-            throw new NotImplementedException();
+            _dbContext.AttachRange(order.Lines.Select(l => l.Product));
+            if (order.OrderId == 0)
+            {
+                _dbContext.Orders.Add(order);
+            }
+            _dbContext.SaveChanges();
         }
     }
 }
