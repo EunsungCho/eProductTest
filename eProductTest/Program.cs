@@ -8,11 +8,14 @@ builder.Services.AddDbContext<eStoreTestDbContext>(option =>
     option.UseSqlServer(builder.Configuration.GetConnectionString("appDbConnection"));
 });
 builder.Services.AddScoped<IDataRepository, StoreDataRepository>();
+builder.Services.AddScoped<IOrderRepository, StoreOrderRepository>();
+
 builder.Services.AddRazorPages();
 builder.Services.AddDistributedMemoryCache();
 builder.Services.AddSession();
 builder.Services.AddScoped<Cart>(sp => SessionCart.GetCart(sp));
 builder.Services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
+builder.Services.AddServerSideBlazor();
 
 var app = builder.Build();
 
@@ -26,6 +29,8 @@ app.MapControllerRoute("category", "{category}", new {controller="home", action=
 app.MapControllerRoute("pagination", "Product/Page{productPage}", new {Controller="Home", action="Index", productPage=1});
 app.MapDefaultControllerRoute();
 app.MapRazorPages();
+app.MapBlazorHub();
+app.MapFallbackToPage("/admin/{*catchall}", "/Admin/Index");
 
 InitializeData.SeedData(app);
 
