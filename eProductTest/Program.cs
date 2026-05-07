@@ -1,5 +1,6 @@
 using eProductTest.Models;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Identity;
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
@@ -7,6 +8,7 @@ builder.Services.AddDbContext<eStoreTestDbContext>(option =>
 {
     option.UseSqlServer(builder.Configuration.GetConnectionString("appDbConnection"));
 });
+
 builder.Services.AddScoped<IDataRepository, StoreDataRepository>();
 builder.Services.AddScoped<IOrderRepository, StoreOrderRepository>();
 
@@ -17,11 +19,19 @@ builder.Services.AddScoped<Cart>(sp => SessionCart.GetCart(sp));
 builder.Services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
 builder.Services.AddServerSideBlazor();
 
+builder.Services.AddDbContext<AppIdentityDbContext>(option =>
+    option.UseSqlServer(
+        builder.Configuration["ConnectionStrings:IdentityConnection"]));
+builder.Services.AddIdentity<IdentityUser, IdentityRole>().AddEntityFrameworkStores<AppIdentityDbContext>();
+
 var app = builder.Build();
 
 //app.MapGet("/", () => "Hello World!");
 app.UseStaticFiles();
 app.UseSession();
+
+app.UseAuthentication();
+app.UseAuthorization();
 
 app.MapControllerRoute("catpage", "{category}/Page{productPage:int}", new {controller="home", action="index"});
 app.MapControllerRoute("page", "Page{productPage:int}", new { controller = "home", action = "index", productPage = 1 });
