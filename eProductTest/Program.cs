@@ -43,5 +43,6 @@ app.MapBlazorHub();
 app.MapFallbackToPage("/admin/{*catchall}", "/Admin/Index");
 
 InitializeData.SeedData(app);
+IdentitySeedData.EnsurePopulated(app);
 
 app.Run();
