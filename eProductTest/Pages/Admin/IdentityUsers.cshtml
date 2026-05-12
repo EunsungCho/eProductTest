@@ -1,4 +1,5 @@
 ﻿@page
+@using Microsoft.AspNetCore.Authorization
 @using Microsoft.AspNetCore.Identity
 @model IdentityUsersModel
 
@@ -19,6 +20,7 @@
 </table>
 
 @functions {
+    [Authorize]
     public class IdentityUsersModel: PageModel
     {
         private UserManager<IdentityUser> userManager;
@@ -30,7 +32,7 @@
         public IdentityUser AdminUser { get; set; } = new();
         public async Task OnGetAsync()
         {
-            AdminUser = await userManager.FindByNameAsync("Admin");
+            AdminUser = await userManager.FindByNameAsync("Admin") ?? new();
         }
     } 
 }
